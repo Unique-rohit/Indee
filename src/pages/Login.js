@@ -55,6 +55,7 @@ const Login = () => {
           <div className="link" onClick={() => forgotPassword(email)}>
             Forgot password?
           </div>
+          
           <input
             type="submit"
             className="btn btn-primary form-control"
